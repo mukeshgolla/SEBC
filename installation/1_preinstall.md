@@ -115,5 +115,3 @@ Dec 05 04:37:09 ip-172-31-5-116.us-west-2.compute.internal ntpd[2096]: 0.0.0.0 c
 Dec 05 04:37:10 ip-172-31-5-116.us-west-2.compute.internal ntpd[2096]: 0.0.0.0 c614 04 freq_mode
 Hint: Some lines were ellipsized, use -l to show in full.
 ```
-
-
