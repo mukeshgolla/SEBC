@@ -3,7 +3,9 @@
 * AMI ID : ami-5dd3743d
 * OS     : RHEL 7.2 
 * volue  : 32 GB
+
 ### YUM REPOLIST
+
 ```
 [root@ip-172-31-1-64 ~]# yum repolist enabled
 Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
